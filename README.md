@@ -1,5 +1,3 @@
-<!-- ====== 3D & Animated Header ====== -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00E8FF&center=true&vCenter=true&width=650&lines=Hey,+I'm+Ankit+Verma!🚀;AI+%26+ML+Specialization+Student;Full+Stack+Developer+(MERN);Building+Smart+and+Scalable+Systems">
 </h1>
@@ -20,101 +18,54 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE student at LPU, specializing in **Artificial Intelligence & Machine Learning**  
-🧠 I love designing **ML-driven automation** and **full-stack platforms**  
-⚡ Passionate about real-time messaging, secure authentication & intelligent systems  
-📈 Constantly learning, building and improving
+🎓 AI & ML specialization student  
+🧠 Building ML-driven automation and full-stack platforms  
+⚡ Love secure auth, real-time messaging and intelligent systems  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<!-- Programming -->
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" height="45"/>
-
-<!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux" height="45"/>
-
-<!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
-
-<!-- Databases -->
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45"/>
-
-<!-- Tools -->
 <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux" height="45"/>
-
-<!-- AI/ML -->
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-<img src="https://skillicons.dev/icons?i=python" height="45"/>  
-<b>NumPy | Pandas | Matplotlib | Seaborn | Scikit-Learn</b>
-
 </p>
+
+<b>AI / ML:</b> NumPy | Pandas | Matplotlib | Seaborn | Scikit-Learn
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🟢 Intelligent WhatsApp Reply Engine
-> **Smart Reply Automation | Real-time Messaging | Persistent QR Login**  
-> Accuracy boosted by **95%** using intent + language detection  
-> Multilingual tone-match improved response correctness by **~60%**  
-> Manual rule updates reduced by **70%** through chat-controlled automation  
-> Built with **MERN + Socket.io + NLP + JWT Auth**  
-:contentReference[oaicite:1]{index=1}
+### 🟢 Intelligent WhatsApp Reply Engine (MERN + NLP)
+Real-time reply automation · Persistent QR sessions · Intent + language detection  
+Chat-controlled rules · Socket.io push messaging
 
-🔗 **Live** | 🧩 **Code (GitHub)**  
-*(Add correct links once deployed)*
+🔗 Live Demo | 🧩 Source Code  
+*(Add your links here)*
 
 ---
 
 ### 🔷 InternshipHub – Multi-Role Internship Platform
-> Secure platform for Admin | Supervisor | Student  
-> Workflow navigation improved by **30%**  
-> Real-time messaging cut communication delays by **50%**  
-> Manual work reduced by **40%** with admin utilities (filters, Excel export, reviews)  
-> Powered by **React · Node · Express · MongoDB · JWT · Socket.io**  
-:contentReference[oaicite:2]{index=2}
+Secure login · Admin tools · Real-time messaging  
+Smooth workflow navigation with live updates
 
-🔗 **Live** | 🧩 **Code (GitHub)**  
-*(Add correct links once deployed)*
+🔗 Live Demo | 🧩 Source Code  
+*(Add your links here)*
 
 ---
 
 ## 🧪 Experience
 
-**Freelance Full-Stack Developer** — Jan 2024 – Present  
-> Delivered **5+ MERN apps**, boosting performance by **40%** & engagement by **50%**  
-> Built **10+ reusable React components** making dev cycles **35% faster**  
-> Integrated **OAuth + Razorpay + APIs**, improving efficiency by **80%**  
-:contentReference[oaicite:3]{index=3}
+**Freelance Full-Stack Developer**  
+Worked on MERN automation apps, reusable components, and API integrations
 
 ---
 
-## 🏆 Achievements
-
-✨ **INSPIRE-SHE Scholar** *(Top 1% in India)* — Govt. of India DST  
-Received **₹1,20,000 scholarship** + mentorship grant  
-:contentReference[oaicite:4]{index=4}
-
-🥉 **3rd Position – Entrepreneurial Bootcamp** — LPU E-Cell  
-Special recognition for innovative project work  
-:contentReference[oaicite:5]{index=5}
-
----
-
-## 🎓 Education
-
-**Lovely Professional University** — Punjab, India  
-B.Tech CSE | **AI & ML Specialization** | CGPA: 8.06 (Current)  
-Aug 2023 – Present  
-:contentReference[oaicite:6]{index=6}
-
----
-
-## 📊 GitHub Insights (Animated)
+## 📊 GitHub Insights
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=ankitverma969&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160">
@@ -127,12 +78,4 @@ Aug 2023 – Present
 
 ---
 
-## 🤝 Let’s Connect and Build
-
-📧 Email: **hpvankitverma@gmail.com**  
-🌐 GitHub: **@ankitverma969**  
-💼 LinkedIn: **linkedin.com/in/ankitverma969**
-
-> Always open to collaborations in AI, Web Automation and Full-Stack Development 🚀
-
----
+<p align="center">📧 hpvankitverma@gmail.com | 💼 linkedin.com/in/ankitverma969</p>
