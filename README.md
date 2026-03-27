@@ -115,13 +115,8 @@
 ## 🚀 Product Experiments
 
 * 🍽️ **AI Food Stall Demand Prediction System**
-  Built a system that predicts food stall demand using SQL aggregation and occupancy-based slot recommendation logic.
-
 * 🌾 **Digital Farmer Market (MERN Marketplace)**
-  Real-time auction marketplace connecting farmers and buyers with instant bidding using Socket.io.
-
 * 💧 **ML Groundwater Quality Analyzer**
-  Machine learning system that evaluates groundwater quality using PCA, anomaly detection, and WQI modeling.
 
 ---
 
@@ -129,7 +124,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ankitverma969\&theme=tokyonight\&no-frame=true\&row=1\&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=ankitverma969&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -139,9 +134,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitverma969&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitverma969&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma969&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma969&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 </div>
 
@@ -151,7 +146,7 @@
 
 <div align="center">
 
-![](https://streak-stats.demolab.com?user=ankitverma969\&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=ankitverma969&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -159,19 +154,19 @@
 
 # 📈 Activity Graph
 
-[![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitverma969\&theme=tokyo-night)](https://github.com/ankitverma969)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitverma969&theme=tokyo-night" />
 
 ---
 
 # 📊 GitHub Analytics
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitverma969\&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitverma969&theme=tokyonight" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitverma969\&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitverma969\&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitverma969&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitverma969&theme=tokyonight" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitverma969\&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitverma969\&theme=tokyonight\&utcOffset=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitverma969&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitverma969&theme=tokyonight&utcOffset=5.5" />
 
 ---
 
@@ -179,7 +174,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/ankitverma969/ankitverma969/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/ankitverma969/ankitverma969/output/github-contribution-grid-snake.svg" />
 
 </div>
 
