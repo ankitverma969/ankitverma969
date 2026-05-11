@@ -186,13 +186,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ankitverma969)
 
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/ankitverma969)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/radhaji969)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/ankitverma969)
-
-[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@ankitverma969)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hpvankitverma@gmail.com)
 
