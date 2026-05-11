@@ -188,7 +188,7 @@
 
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/ankitverma969)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/ankitverma969)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/radhaji969)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/ankitverma969)
 
