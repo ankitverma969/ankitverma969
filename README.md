@@ -163,7 +163,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🥇 Competitive Programming</h3>
       <a href="https://leetcode.com/ankitverma969">
-        <img src="https://leetcard.jacoblin.cool/ankitverma969?theme=radical&font=Baloo%202&ext=activity" alt="LeetCode Stats"/>
+        <img src="https://leetcard.jacoblin.cool/ankitverma969?theme=radical&font=Baloo%202" alt="LeetCode Stats"/>
       </a>
       <br><br>
       <b>LeetCode Contest Rating: 1722 (Top 12% Globally)</b>
