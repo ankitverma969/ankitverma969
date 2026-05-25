@@ -163,7 +163,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🥇 Competitive Programming</h3>
       <a href="https://leetcode.com/ankitverma969">
-        <img src="https://leetcard.jacoblin.cool/ankitverma969?theme=radical&font=Baloo%202&ext=activity" alt="LeetCode Stats"/>
+        <img src="https://leetcard.jacoblin.cool/ankitverma969?theme=radical&font=Baloo%202" alt="LeetCode Stats"/>
       </a>
       <br><br>
       <b>LeetCode Contest Rating: 1722 (Top 12% Globally)</b>
@@ -193,16 +193,10 @@
 
 <br/>
 
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ankitverma969&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma969&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitverma969&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma969&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
 
 <br/>
 
