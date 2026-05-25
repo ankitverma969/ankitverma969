@@ -163,7 +163,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🥇 Competitive Programming</h3>
       <a href="https://leetcode.com/ankitverma969">
-        <img src="https://leetcard.jacoblin.cool/ankitverma969?theme=radical&font=Baloo%202" alt="LeetCode Stats"/>
+        <img src="https://leetcard.jacoblin.cool/ankitverma969?theme=radical&font=Baloo%202&ext=activity" alt="LeetCode Stats"/>
       </a>
       <br><br>
       <b>LeetCode Contest Rating: 1722 (Top 12% Globally)</b>
@@ -194,8 +194,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitverma969&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma969&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitverma969&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitverma969&theme=radical" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitverma969&theme=radical&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitverma969&theme=radical" alt="Repos Per Language" />
 </div>
 
 <br/>
