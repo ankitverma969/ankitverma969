@@ -213,28 +213,6 @@
       <i>Punjab, India</i>
     </td>
   </tr>
-  <tr>
-    <td>
-      <h3>🏫 Hazi Mohd Amin I C Harraiya</h3>
-      <b>Senior Secondary (Class 12)</b>
-    </td>
-    <td align="right" valign="top">
-      <b>Apr 2021 – Mar 2022</b><br>
-      <b>Percentage: 80.8%</b><br>
-      <i>Basti, Uttar Pradesh</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🏫 Baba BaiJNATH T S I C K</h3>
-      <b>Secondary (Class 10)</b>
-    </td>
-    <td align="right" valign="top">
-      <b>Apr 2019 – Mar 2020</b><br>
-      <b>Percentage: 85%</b><br>
-      <i>Basti, Uttar Pradesh</i>
-    </td>
-  </tr>
 </table>
 
 <div align="center">
