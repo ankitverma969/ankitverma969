@@ -111,7 +111,7 @@
 ## 💼 Work Experience
 
 ### 🚀 **ADP** &nbsp;|&nbsp; *AI/ML Intern (HCM & Agentic AI)*
-> **Jul 2026 – Present** &nbsp;•&nbsp; *Enterprise HCM Solutions & AI Workflows*
+> **Jul 2026 – Sep 2026** &nbsp;•&nbsp; *Enterprise HCM Solutions & AI Workflows*
 * **Enterprise Automation**: Built AI-powered HCM solution components for **3 enterprise automation use cases**, improving HR workflow intelligence.
 * **Agentic Workflows**: Designed **4-step Agentic AI workflows** for complex enterprise tasks, significantly reducing manual handoffs across HR operations.
 * **Knowledge Retrieval**: Prototyped **2 LLM-based applications** leveraging prompt engineering and RAG concepts for structured enterprise knowledge retrieval.
