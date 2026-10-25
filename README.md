@@ -187,6 +187,8 @@
         <li><b>INSPIRE-SHE Scholar (DST, Govt. of India)</b><br>Awarded ₹1,20,000 scholarship and ₹20,000 mentorship grant for academic excellence; ranked in the top 1% of students across India.</li>
         <li><b>3rd Position – Entrepreneurial Bootcamp</b><br>Awarded by LPU’s E-Cell for an innovative startup pitch and prototype with special recognition.</li>
         <li><b>From Data to Decisions (LPU Program)</b><br>Professional Certification in Data Science, specializing in practical hands-on data decisions.</li>
+        <li><b>Oracle Cloud Infrastructure Certified AI Foundations Associate</b><br>Oracle University (Oct 2026)</li>
+        <li><b>Oracle AI Database Certified Foundations Associate</b><br>Oracle University (Oct 2026)</li>
       </ul>
     </td>
   </tr>
