@@ -6,7 +6,7 @@ I build AI systems that run in production — LLM agents, RAG pipelines and the 
 
 Currently building **Zenthraxo**, an AI WhatsApp automation platform (public beta), and open to AI/ML, GenAI and software engineering internships.
 
-[LinkedIn](https://www.linkedin.com/in/ankitverma969) · [Portfolio](https://ankitverma9696.vercel.app/) · [LeetCode](https://leetcode.com/ankitverma969) · [Email](mailto:hpvankitverma@gmail.com) · [Instagram](https://www.instagram.com/radhaji969)
+[LinkedIn](https://www.linkedin.com/in/ankitverma969) · [LeetCode](https://leetcode.com/ankitverma969) · [Email](mailto:hpvankitverma@gmail.com) · [Instagram](https://www.instagram.com/radhaji969)
 
 ---
 
@@ -72,8 +72,8 @@ More in the pinned repositories below.
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankitverma969&show_icons=true&theme=transparent&title_color=24292f&text_color=24292f&icon_color=57606a&border_color=d0d7de&include_all_commits=true&count_private=true" alt="GitHub stats for Ankit Verma"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitverma969&layout=compact&theme=transparent&title_color=24292f&text_color=24292f&border_color=d0d7de" alt="Most used languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitverma969&theme=github" alt="GitHub stats for Ankit Verma"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitverma969&theme=github" alt="Most used languages"/>
 </div>
 
 ---
