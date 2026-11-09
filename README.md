@@ -103,7 +103,6 @@ More in the pinned repositories below.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitverma969&theme=github" alt="GitHub profile details" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitverma969&theme=github" alt="GitHub stats for Ankit Verma"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitverma969&theme=github" alt="Most used languages"/>
 
 </div>
